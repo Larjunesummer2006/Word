@@ -1,0 +1,18 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 5px solid #b3ffff;
+    padding: 20px;
+}
+.box {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: -160px;
+    left: 710px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXjy3R-OprxvecUoptH9HOL8H-sHFVNGnfQ&usqp=CAU") yellowgreen;
+    background-size: 25px 25px;
+}
+
+
+
